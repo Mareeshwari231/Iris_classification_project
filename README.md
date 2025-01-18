@@ -30,4 +30,4 @@ The goal is to train a model to classify flowers based on the given features.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mareeshwari231/iris-classification.git
+    https://github.com/Mareeshwari231/iris-classification.git
